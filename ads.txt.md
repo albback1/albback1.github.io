@@ -1,7 +1,3 @@
-layout: page
-title: "ads.txt"
-permalink: /ads.txt
-
 google.com, pub-5533854580432370, RESELLER, f08c47fec0942fa0
 improvedigital.com, 2031, RESELLER
 yandex.com, 303600733, DIRECT
